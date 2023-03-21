@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#A simple script for installing docker
 #This is a bash script it will install Docker and Docker Compose on your Ubuntu 20.04 machine. Ensure your Ubuntu installation has all the latest updates.
 
 #With your browser (for example google chrome,Mozilla firefox,brave and ….), visit https://github.com/docker/compose/releases/latest and get the version number of the latest Docker Componse release (Example v2.11.2). 
