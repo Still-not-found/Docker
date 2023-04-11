@@ -1,14 +1,16 @@
 #!/bin/bash
-#A simple script for installing docker
-#This is a bash script it will install Docker and Docker Compose on your Ubuntu 20.04 machine. Ensure your Ubuntu installation has all the latest updates.
+#A simple script for installing docker in your linux server
+
+#This is a bash script it will install Docker and Docker Compose on your Ubuntu 22.04 machine. Ensure your Ubuntu installation has all the latest updates.
 
 #With your browser (for example google chrome,Mozilla firefox,brave and ….), visit https://github.com/docker/compose/releases/latest and get the version number of the latest Docker Componse release (Example v2.11.2). 
 
 #Make this script executable:
-#chmod +x docker_compose.sh
+
+    #chmod +x docker_compose.sh
 
 #Run the script as root:
-#./docker_compose.sh OR bash docker_compose.sh
+    #./docker_compose.sh OR bash docker_compose.sh
 
 #Enter the username of the user you would like to be able to run Docker commands without having to prefix with sudo when prompted.
 
